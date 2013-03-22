@@ -1,0 +1,26 @@
+
+current version:1.121114
+===================================================================
+
+Copy this folder to your project root dir. and input command.
+
+
+command introduce
+./scan.sh clean:
+	clean the work place. remove intermediate file. and log file . and temp file.
+./scan.sh scan:
+	with one parameters.It auto comepare "values" and "values-es". at last you can get the xls file. and you can translate this file.
+./scan.sh scan languages:
+	input the language short code. Auto comepare "values" and "values-languages" 
+	for example ,comepare "values" and "values-zh-rCN". you must input " ./scan scan zh-rCN ".also you can get the xls file.
+./scan.sh write
+	When you translate xls file done. you can use this command to get the xml file form "xmlout" folder.
+
+
+enjoy this.! 
+====================================================================
+
+
+
+
+
